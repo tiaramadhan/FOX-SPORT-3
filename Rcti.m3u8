@@ -1,0 +1,6 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://anevia114.mncnow.id/live/eds/RCTI/sa_hls_vmx/RCTI-avc1_2499968=10-mp4a_98800_eng=5.m3u8
